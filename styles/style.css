@@ -5,3 +5,7 @@
     padding: 0.5em;
     margin-bottom: 1em;
 }
+
+.nav-st {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
